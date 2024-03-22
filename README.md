@@ -17,4 +17,5 @@
 - Ensure everything is correct then starting to run tool.py
 
 ### Todo
-- [ ]A easier way to change *data* and *cookie*
+- []A easier way to change *data* and *cookie*
+- []A better way to get *cookie*
