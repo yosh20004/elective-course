@@ -1,4 +1,4 @@
-# NEU 抢课
+# NEU 抢课工具
 
 ### Requirements
 - Python<br/>
@@ -11,3 +11,7 @@
   从excel中找到你想要的课程id 或从前端手动获取<br/><br/>
 - **GET COOKIE<br />**
   **使用浏览器开发者工具 f12 获得cookie<br/><br/>**
+
+### START？
+- Update the cookie in **cookies** and id in **data** values in ./src/POST/tool.py
+- Ensure everything is correct then starting to run tool.py
