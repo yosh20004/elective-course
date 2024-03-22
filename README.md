@@ -1,7 +1,7 @@
 # NEU 抢课
 
 ### Requirements
-- Python<br/><br/>
+- Python<br/>
 - requests<br/>
 
 ### How To Use
@@ -9,5 +9,5 @@
   确保你处于选课页面<br/><br/>
 - Find the ID of the course you want to select from the Excel sheet<br />
   从excel中找到你想要的课程id 或从前端手动获取<br/><br/>
-- **GET COOKIESs<br />**
+- **GET COOKIE<br />**
   **使用浏览器开发者工具 f12 获得cookie<br/><br/>**
