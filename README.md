@@ -1,2 +1,5 @@
-# elective-course
-NEU 抢课
+# NEU 抢课
+
+# Requirements
+Python 
+requests
