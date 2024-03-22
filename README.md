@@ -18,4 +18,4 @@
 
 ### Todo
 - [ ] A easier way to change *data* and *cookie*
-- []A better way to get *cookie*
+- [ ] A better way to get *cookie*
