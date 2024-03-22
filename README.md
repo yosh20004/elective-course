@@ -13,7 +13,7 @@
   **使用浏览器开发者工具 f12 获得cookie<br/><br/>**
 
 ### START
-- Update the cookie in *cookies* and id in *data* values in ./src/POST/tool.py
+- Update the cookie in *cookies* and id in *data* values in tool.py
 - Ensure everything is correct then starting to run tool.py
 
 ### Todo
