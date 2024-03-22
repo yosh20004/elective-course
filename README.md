@@ -1,5 +1,5 @@
 # NEU 抢课
 
 ### Requirements
-Python<br/>
-requests
+1.Python<br/>
+2.requests
